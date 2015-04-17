@@ -3,7 +3,11 @@
 html {
     text-align: center;
     padding: 2em;
-    background-image:url('fortune-cookie.jpg');
+   
+}
+body{
+	 background-image:url('fortune-cookie.jpg');
+	background-repeat:no-repeat;
 	font-family: 'Julee', cursive;
 }
 h1{
