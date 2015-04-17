@@ -3,11 +3,38 @@
 html {
     text-align: center;
     padding: 2em;
-    font-family: Arial, Helvetica, sans-serif;
+    background-image:url('fortune-cookie.jpg');
+	font-family: 'Julee', cursive;
+}
+h1{
+	font-size:70px;
+}
+
+ul{
+	list-style-type:none;
 }
 
 .fortune-cookie-saying-wrapper {
     border: 1px solid #666;
     padding: 1em;
     margin: 1em;
+	background-color: white;
+	border-style:none;
+	box-shadow:2px 2px gray;
+	font-family: 'Source Code Pro',cursive ;
+}
+.generate-button{
+	font-size:20px;
+	border-radius:20px;
+	background-color:white;
+	font-family:'Julee', cursive;
+	
+}
+p{
+	font-size:25px;
+}
+
+
+h2{
+	font-size:40px;
 }
